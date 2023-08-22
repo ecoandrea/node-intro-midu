@@ -17,5 +17,11 @@
     "midudev"
   ],
   "author": "Miguel Angel Duran",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
 }
